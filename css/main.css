@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.winners {
+  color: #fff;
+  text-align: center;
+}
+.winners>div {
+  margin-bottom: 2px;
+}
+.winners .black { background: #000;}
+.winners .red {background: red;}
+.winners .green {background: green;}
